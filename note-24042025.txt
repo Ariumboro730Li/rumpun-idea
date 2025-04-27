@@ -1,0 +1,3 @@
+- citizen_complaint_comments id nya auto increment buat mempermudah action "load more data" di fe - done
+- complaint comment is_public 0 maka yg bisa comment adalah pengurus dan user pengaju - done
+-
