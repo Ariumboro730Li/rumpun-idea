@@ -1,0 +1,88 @@
+1. user login menggunakan email dan password
+2. user masuk ke halaman portal untuk memilih
+menu perumahan mana yg ingin di akses (jika user memiliki data di lebih dari 1 perumahan),
+jika hanya ada 1 perumahan maka akan langsung masuk ke halaman perumahan terkait
+2.Menu dan fitur2 yg dapat diakses sesuai Role
+    - Anggota Keluarga
+        - Portal pilihan jika warga memiliki data di 2 perumahan terpisah
+        - dashboard
+            - total kk terdaftar aktif dan tidak aktif
+            - total warga perumahan
+            - grafik jumlah rumah (blok)
+            - grafik jumlah warga (perempuan, laki-laki, balita, dewasa, lansia)
+        - data rumah sesuai blok nya masing2
+        - data warga (blok rumah, no rumah, nama, alamat)
+        - data identitas kk dan anggota keluarga
+        - summary keuangan
+        - data kegiatan
+        - data tamu
+        - layanan => pembuatan surat2, Izin keramaian,
+            - pengajuan surat
+            - riwayat surat
+            - 
+        - iuran
+        - aduan => listrik padam, sampah tidak diangkut, jalan rusak, dll
+        - voting => pemilihan ketua rt, rw, pengurus, dll
+            - pengumuman polling
+            - hasil polling
+        - CCTV
+            - data CCTV
+            - riwayat CCTV 3 hari terakhir
+        - banner => informasi kegiatan, pengumuman, dll
+        - notifikasi
+            - aplikasi dan WA
+            - warga baru
+            - iuran jatuh tempo
+            - kegiatan baru
+            - pengumuman
+        - Electronic ID
+            - QR Code
+            - scan kehadiran rapat / kegiatan
+            - ambil paket di satpam
+            - akses fasum
+        - PANIC BUTTON
+        - Reward System / Poin Warga Aktif
+            - Warga yang aktif ikut kegiatan atau rutin bayar iuran bisa dapat poin
+            - Poin bisa ditukar hadiah (sponsor lokal) atau badge kehormatan digital
+        - petugas keamanan (satpam)
+            - jadwal petugas jaga
+            - petugas jaga saat ini
+    - Kepala Keluarga
+        - Semua yg dapat diakses oleh anggota keluarga
+        - manajemen data keluarga
+        - manajemen data tamu
+    - Bendahara
+        - Semua yg dapat diakses oleh kepala keluarga
+        - manajemen data keuangan
+            - manajemen kategori keuangan
+            - manajamen iuran
+    - Sekretaris
+        - Semua yg dapat diakses oleh kepala keluarga
+        - manajemen data acara
+            - rapat warga
+            - rapat pengurus
+            - notulensi
+    - Ketua Pengurus
+        - Semua yg dapat diakses oleh kepala keluarga
+        - view lengkap data warga
+        - export data warga
+        - view lengkap data keuangan
+        - view lengkap data acara
+        - view lengkap data CCTV (riwayat 30 hari terakhir)
+        - view lengkap data fasum
+        - export data keuangan
+        - export data acara
+        - manajemen polling
+    - Data Entry warga
+        - Semua yg dapat diakses oleh kepala keluarga
+        - manajemen data warga
+        - manajemen data polling
+        - manajemen data CCTV
+        - manajemen fasum
+        - manajemen petugas keamanan
+    - Administrator
+        - ALL ACCESS
+- Other Notes :
+    - saat tambah entry data warga / citizen / kartu keluarga ada alert
+    (Apakah Anda yakin ingin menambah data baru ?
+    data tidak dapat dihapus jika sudah di simpan ke dala sistem)

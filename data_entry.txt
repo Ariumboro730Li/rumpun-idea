@@ -1,0 +1,47 @@
+data entry mengikat per perumahan
+data yang harus dimasukkan terlebih dahulu sebelum data entry bisa entry data warga :
+ - perumahan
+ - data warga
+ - user data entry
+ - housing area member
+
+1. data entry
+data kartu keluarga
+    - list families (no identitas kk nya, nama kepala keluarga, relasi rumahnya)
+    - add new family
+        - entry table family_cards =>
+            Input (
+                identity_number,
+                photo_identity_card,
+                id_province,id_city,
+                id_district,
+                id_sub_district,
+                rt,
+                rw,
+                postal_code,
+                address
+            )
+        - family member
+            - entry citizen
+                - fullname
+                - identity_number
+                - photo_identity_card
+                - photo_face
+                - place_birth
+                - date_birth
+                - blood_type
+                - gender
+                - religion
+                - marital_status
+                - employment_status
+                - education_status
+                - citizenship
+            - entry family card member
+
+    - update family card
+        - required : id housing area, id family card
+    - update death status
+
+    identity_number_kitas_kitap ?? kapan akan terisi di KK
+    identity_number_passport ?? kapan akan terisi di KK
+

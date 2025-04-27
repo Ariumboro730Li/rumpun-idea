@@ -1,0 +1,89 @@
+- Visi : 
+- Misi :
+    - Membantu pengurus lakukan pendataan dan monitoring data
+    - Menyediakan layanan administratif warga secara digital.
+    - Membuka akses transparan terhadap laporan keuangan dan kegiatan lingkungan.
+    - Meningkatkan keamanan lingkungan melalui sistem tamu dan integrasi CCTV.
+    - Menghubungkan warga dengan pengurus melalui laporan, pengaduan, dan pengingat kegiatan sosial.
+- hasil survey : 55 KK, hadir 30an, 20an setuju
+- apa itu serumpun padi ?
+    - platform website untuk mengelola data warga, memudahkan warga dalam mengakses transparansi kegiatan, laporan keuangan, dan pengelolaan tamu yang berkunjung
+- pain asumsi (warga)
+    - Kesulitan Mengurus Surat atau Administrasi
+        Pain:
+            •	Harus datang ke rumah ketua RT/RW untuk mengurus surat pengantar.
+            •	Kadang pengurus sedang tidak di rumah atau sibuk, harus bolak-balik.
+            •	Tidak tahu format atau syarat-syarat dokumen.
+
+        Kebutuhan:
+            •	Aplikasi untuk ajukan surat secara online (pengantar domisili, usaha, SKCK, dll.).
+            •	Notifikasi saat surat sudah selesai.
+            •	Riwayat surat yang pernah diajukan.
+    -  Sulit Melapor dan Mengetahui Tindak Lanjut Pengaduan
+        Pain:
+            •	Warga bingung ke mana harus melapor kalau ada masalah (jalan rusak, lampu mati, tetangga ribut, dll.).
+            •	Tidak tahu apakah laporan ditindaklanjuti atau tidak.
+            •	Tidak semua warga tahu nomor WA pengurus.
+
+        Kebutuhan:
+            •	Menu pengaduan digital yang mudah digunakan.
+            •	Bisa pilih kategori pengaduan + tambahkan foto.
+            •	Lihat status pengaduan (diproses, selesai, ditolak, dll).
+    -  Khawatir soal Keamanan & Tidak Ada Akses CCTV
+        Pain:
+            •	Sering dengar kabar pencurian, tapi tidak tahu detilnya.
+            •	Ingin tahu kalau ada orang mencurigakan keliling malam-malam.
+            •	Tidak bisa akses CCTV secara langsung.
+
+        Kebutuhan:
+            •	Akses live CCTV lewat aplikasi.
+            •	Notifikasi saat ada kejadian mencurigakan / emergency.
+            •	Tombol “Lapor Darurat” langsung ke pengurus/satpam.
+    - Ingin Transparansi Keuangan & Kegiatan
+        Pain:
+            •	Tidak semua warga tahu kemana iuran digunakan.
+            •	Tidak ada laporan keuangan pasca acara.
+            •	Kadang merasa tidak dilibatkan atau tidak tahu kegiatan apa saja yang sudah dilakukan pengurus.
+
+        Kebutuhan:
+            •	Laporan keuangan bulanan & per acara (pemasukan, pengeluaran, sisa).
+            •	Dokumentasi kegiatan (foto, notulen).
+            •	Semua bisa diakses kapan pun oleh warga.
+        
+- pain asumsi pengurus
+    - Kesulitan Merekap dan Menyajikan Data Warga
+        Pain:
+            •	Data warga tersebar (di buku, WA, Excel), tidak terpusat.
+            •	Sulit saat diminta rekap jumlah lansia, balita, pelajar, mahasiswa, dll.
+            •	Pembaruan data lambat karena menunggu laporan dari warga.
+
+        Kebutuhan:
+            •	Dashboard data warga lengkap & real-time.
+            •	Filter berdasarkan usia, status pendidikan, pekerjaan, pernikahan, dll.
+            •	Warga bisa update data sendiri (dengan verifikasi).
+
+    - Transparansi Keuangan dan Dokumentasi Kegiatan Kurang
+        Pain:
+            •	Warga sering menanyakan dana kemana aja tapi, pengurusnya lagi bkerja gak baca wa.
+            •	Laporan acara kadang hanya di grup WA, tidak semua warga baca.
+
+        Kebutuhan:
+            •	Fitur pencatatan keuangan lingkungan (kas masuk, keluar, saldo).
+            •	Dokumentasi kegiatan (foto, laporan, notulen).
+            •	Semua laporan bisa diakses warga secara terbuka.
+
+    - Keamanan Lingkungan Kurang Terpantau
+        Pain:
+            •	Tidak ada sistem tamu digital. Pengurus sulit memantau siapa saja yang masuk lingkungan.
+            •	CCTV hanya bisa dilihat oleh yg punya, warga lain tidak bisa bantu awasi.
+
+        Kebutuhan:
+            •	One Gate System digital (catat tamu masuk, tujuan, rumah yang dituju).
+            •	Integrasi dengan CCTV agar pengurus & warga bisa akses secara terbatas.
+- mekanisme manual 
+    - warga kasih fotocopy kk, ktp, buku nikah ke Pengurus
+    - Pengurus update data di excel (dimana data itu juga gak lengkap, yg dimasukan hanya data KK, tidak ada data anggotanya)
+    - laporan keuangan : masih harus dinotifikasi manual , ada pengurus yg wa masing2 warga yg belom bayar, dan itu pun bisa jadi ada warga yg udah bayar, tapi masih di notifikasi
+        banyak yg tanya uang buat apa saja (sedangkan buat laporan harus yg bendahara buat laporin, dan dia juga kerja )
+    - Tamu : gak ada mekanisme pelaporan ? cuma bilang, gw ada tamu ya pak nginap berapa hari aja. habis itu ya lupa, gk ada historynya
+    - orang mencurigakan : yg bisa akses hanya yg punya CCTV

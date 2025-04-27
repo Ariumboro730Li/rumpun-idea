@@ -1,0 +1,16 @@
+table citizen_guests
+
+id housing area 
+id citizen 
+id guests : ktp tamu akan terdaftar di table citizen (perwakilan tamu)
+stay_status : (MENGINAP, TIDAK MENGINAP, BELUM DITENTUKAN)
+stay_start_at : 
+stay end at : 
+status relationship : (TEMAN, SAUDARA, SUAMI, ISTRI, ANAK, KELUARGA, LAINNYA)
+total_guests : (berapa orang yg bertamu sekali waktu)
+purpose : Untuk mencatat tujuan kunjungan, misalnya: acara keluarga, liburan, dll
+note : Catatan tambahan bebas
+identity_attachment : attachment pendukung misal KTP perwakilan
+created_at
+updated_at
+

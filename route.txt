@@ -1,0 +1,25 @@
+- prefix : management
+    - citizens
+        - GET list : list semua citizen (
+            by housing area,
+            search fullname, identity_number, gender, religion, marital_status, employment_status, education_status
+            param {
+                id_housing_area, search, page, limit,
+                gender, religion, marital_status, employment_status, education_status, place_birth,
+            }
+        )
+        - GET /select : option citizen (
+            id_housing area nullable,
+            search fullname, identity_number (encrypt),
+            param (id_housing_area, search, page, limit)
+        )
+        - POST create : create citizen
+        - GET find /{id} : find detail citizen
+        - PUT update /{id} : update citizen
+        - get /identity : show real identity
+    - families
+        - GET : list semua family
+        - POST : create family card
+        - GET /{id} : find detail family card
+        - PUT /{id} : update family card
+        - POST /member : create family card member

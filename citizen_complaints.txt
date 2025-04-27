@@ -1,0 +1,34 @@
+table citizen_complaints
+id 
+id_housing_area 
+id_citizen 
+category 
+description 
+evidence 
+status 
+is_publish
+
+- category : enum php constant (
+        kebersihan lingkungan, 
+        keamanan dan ketertiban, 
+        Fasilitas Umum, 
+        Gangguan Sekitar / Tentangga, 
+        Layanan Air dan Listrik, 
+        Pengaduan Orang tidak dikenal, 
+        Iuran dan keuangan, 
+        kategori lainnya
+    )
+- status : enum php constant (
+    'PROSES',
+    'SELESAI',
+    'DITOLAK',
+    'DIBATALKAN',
+
+)
+
+perlu gak table citizen_complaint_logs ? 
+    - citizen_complaint_responses : menampung status danr espons masing2 pengaduan
+    
+pengaduan bisa di publish / private 
+- publish :  jika bisa dilihat semua warga
+- private : hanya bisa dilihat warga yg mengadukan dan pengurus
