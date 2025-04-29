@@ -1,0 +1,20 @@
+1. pengembangan teknologi = 50.000.0000
+2. Pemasaran dan Akuisisi Pengguna  = 50.000.000
+3. Operasional dan Infrastruktur = 75.000.000
+4. Cadangan Pengembangan dan Ekspansi = 25.000.000
+
+pengembalian : 260 juta dalam 12 bulan,
+jaminan : sertifikat tanah sukabumi seluas 2000 meter senilai 250 juta
+
+CVO (Pemimpi besar, idealis, dan futuristik) = Sekar Hadi Sangadji
+CSO (Ahli strategi, grounded, tahu masalah teknis perumahan) = Ari Umboro Seno
+
+CCO = Penanggung jawab ahli komunitas dan relationship = Abdul Muksin
+
+COO (Fleksibel, komunikatif, bisa bangun jaringan lapangan) = Muhammad Zen
+
+CXO (Emosional, humanistik, cocok memimpin persepsi & pengalaman pengguna) = Putri Endang Astuti
+
+- strategi dan milestone
+    - MVP dan pilot project
+    - pendanaan angel investor
